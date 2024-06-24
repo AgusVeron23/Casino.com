@@ -193,14 +193,17 @@
         margin-top: -54px;
     }
     .header {
-        padding-bottom: 25px;
-        padding-top: 25px;
+        padding-top: 10px;
+        padding-left: 30px;
     }
     .logo {
         width: 134px;
     }
-    .banner_main img {
-        height: 250px;
+
+    .banner_main .text-bg a {
+        width: 150px;
+        padding: 5px 0px;
+        font-size: 15px;
     }
     .text-bg {
         margin-top: -20px;
@@ -218,6 +221,12 @@
     .licens_Carousel .test_box .jons h4 {
         font-size: 32px;
     }
+    .pagos-it img {
+        max-width: 30%;
+        height: 100%;
+        margin: 0px -10px;
+    }
+
     .licens_Carousel .test_box .jons {
         margin-top: 30px;
     }
