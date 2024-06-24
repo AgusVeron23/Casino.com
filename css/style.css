@@ -280,7 +280,7 @@ button {
 ---------------------------------------------------------------------*/
 
 .container {
-    max-width: 1170px;
+    max-width: 1250px;
 }
 
 .right_header_info {
@@ -384,11 +384,11 @@ button {
 }
 
 .banner_main .text-bg a {
-    width: 250px;
+    width: 300px;
     background: #fcfcfc;
     padding: 15px 0px;
     color: #000;
-    font-size: 17px;
+    font-size: 27px;
     display: inline-block;
     text-align: center;
     margin-top: 20px;
